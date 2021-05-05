@@ -70,9 +70,7 @@
 				<data>
 				ww==
 				</data>
-				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<key>ReplaceMask</key>				
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -88,9 +86,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				uAEAAAC5yAEAADHSDzA=
-				</data>
+				<data>uAEAAAC5yAEAADHSDzA=</data>
 				<key>Identifier</key>
 				<string>kernel</string>
 				<key>Limit</key>
