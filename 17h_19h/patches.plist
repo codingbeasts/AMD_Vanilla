@@ -51,7 +51,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<true><true/>
 				<key>Find</key>
 				<data>
 				</data>
@@ -84,7 +84,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<true><true/>
 				<key>Find</key>
 				<data>uAEAAAC5yAEAADHSDzA=</data>
 				<key>Identifier</key>
@@ -92,8 +92,7 @@
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>MaxKernel</key>
 				<string>20.99.99</string>
 				<key>MinKernel</key>
